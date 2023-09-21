@@ -47,6 +47,10 @@
 - Boot pay
 - Kakao OAuth
 
+## ✨ 페이지 흐름도
+<img src="https://github.com/ss00-coder/ss00-coder/assets/129861795/2f2177de-d03e-4af5-a1f2-0aad57a8720d">
+<br><br>
+
  ## 📌 프로젝트에서 맡은 역할 
 - 프로젝트 팀장, 서비스 기획 및 전반적인 구성
 - DB 및 컨트롤러 설계 
