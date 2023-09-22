@@ -51,18 +51,43 @@
 <img src="https://github.com/ss00-coder/ss00-coder/assets/129861795/2f2177de-d03e-4af5-a1f2-0aad57a8720d">
 <br><br>
 
+## ✨ ERD
+![포린어스 포토폴리오 drawio](https://raw.githubusercontent.com/DKemma33/Django-project/ef8fb1c3b4c4ab729854366eaaa64febb8f755fc/Foreign_us/foreign-usERD.png)
+
+
  ## 📌 프로젝트에서 맡은 역할 
 - 프로젝트 팀장, 서비스 기획 및 전반적인 구성
-- DB 및 컨트롤러 설계 
-- 프론트 업무 : 
-- 백엔드 업무 : 
 
-### 퍼블리싱 작업(로그인 페이지/ 소개 페이지/ 관리자 페이지) 
- 1. 로그인 페이지 <br>
- 2. 소개 페이지 <br>
- 3. 관리자 페이지 :<br>
-   공지사항 목록, 상세, 작성/수정, 회원목록, 상세, 과외 목록, 상세, 과외매칭 목록, 상세, 헬퍼스 목록, 헬퍼스 상세, 
-   이벤트 목록, 이벤트 상세, 1:1 문의 목록, 상세, 작성/수정<br>
+
+### ✨ 담당 업무  
+
+
+### 프론트엔드
+<img src="https://github.com/DKemma33/DKemma33/blob/main/%ED%8F%B4%EC%9D%B8%EC%96%B4%EC%8A%A4%ED%94%84%EB%A1%A0%ED%8A%B8.png?raw=true">
+
+ ▶ 로그인 페이지 <br>
+ ▶ 소개 페이지 <br>
+ ▶ 관리자 페이지 :<br>
+ - 공지사항 목록
+ - 공지사항 상세
+ - 공지사항 작성/수정
+ - 회원목록
+ - 회원정보 상세
+ - 과외목록
+ - 과외정보 상세
+ - 과외매칭 목록
+ - 과외매칭 상세
+ - 헬퍼스 목록
+ - 헬퍼스 상세 
+ - 이벤트 목록
+ - 이벤트 상세
+ - 1:1 문의 목록 
+ - 1:1 문의 상세
+ - 1:1 문의 작성/수정<br>
+
+### 백엔드
+<img src="https://github.com/DKemma33/DKemma33/blob/main/%ED%8F%B4%EC%9D%B8%EC%96%B4%EC%8A%A4%EB%B0%B1.png?raw=true">
+
 
 
  
@@ -77,8 +102,6 @@
  8. 헬퍼스 목록 (목록, 작성/수정, 검색, 삭제)<br>
  9. 결제 내역 (목록, 검색)<br>
 
-## ✨ ERD
-![포린어스 포토폴리오 drawio](https://raw.githubusercontent.com/DKemma33/Django-project/ef8fb1c3b4c4ab729854366eaaa64febb8f755fc/Foreign_us/foreign-usERD.png)
 
 ## ✨ 프로젝트에서 느낀점
  : 개발을 처음 배웠고 실력적으로 많이 뎌딘 상태에서 팀장이라는 직책을 맡아 프로젝트를 진행하는 것이 가장 큰 어려웠던것 같습니다. 전체적이 흐름을 파악하고 있어야하고, 개발 뿐만 아니라 기획과 문서까지 전체적으로 팀장이 결정을 해야하는 것에 안좋은 선택이지 않을까, 좋은 방향성을 제시하는 걸까 하는 큰 부담이 있었습니다.
